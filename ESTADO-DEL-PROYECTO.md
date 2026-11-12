@@ -1,44 +1,57 @@
-# Estado operativo — Editorial RUMA
+# Estado del proyecto — Editorial RUMA
 Actualizado: 12 de noviembre de 2026
 
-## Diagnóstico
-El proyecto está en **pre-lanzamiento comercial**. La web y el catálogo están construidos; el perfil de Wecito ya tiene una URL configurada. Todavía no hay evidencia de que el circuito completo de cobro y entrega haya sido probado.
+## Etapa vigente
+**Etapa editorial: estructura y producto terminado.**
 
-## Lo que ya existe
-- Sitio estático en GitHub Pages preparado: portada, catálogo, búsqueda, filtros, fichas, preguntas frecuentes y presentación editorial.
-- Catálogo con una primera publicación: **Chañar en colores**.
-- Ficha del producto con precio de referencia ARS 2.500 y estado «En preparación».
-- Enlace al perfil Wecito configurado en `assets/js/store-config.js`.
-- Cada publicación admite una URL individual de compra mediante `purchaseUrl`.
-- El PDF completo no debe subirse al repositorio público.
+Quedan congeladas todas las tareas relacionadas con Wecito, Mercado Pago, cobros, checkout, botones de compra, automatización de entrega y cualquier integración comercial externa. No reactivar ni proponer esas tareas hasta que el titular lo solicite expresamente.
 
-## Lo que no está confirmado
-- Que GitHub Pages esté habilitado y que la web pública cargue correctamente.
-- Que el perfil Wecito sea visible para cualquier visitante.
-- Que Mercado Pago figure como conectado en Wecito.
-- Que exista un producto descargable creado y publicado en Wecito.
-- Que se haya realizado una compra real/de prueba y comprobado el email de entrega.
-- Que el PDF final de Chañar en colores esté revisado, tenga fuentes y créditos completos y esté listo para comercializar.
+## Identidad y funciones
+- **Ocarina Producciones:** sello productor; investiga, desarrolla, escribe, diseña y revisa obras originales.
+- **Editorial RUMA:** sello editorial; organiza las publicaciones, define colecciones, presenta cada obra y conserva criterios de calidad.
+- **Publicaciones:** productos digitales completos, útiles, legibles y listos para usar o imprimir.
 
-## Próxima secuencia — no saltar pasos
-1. Abrir el perfil público de Wecito y confirmar que muestra Ocarina Producciones.
-2. En el panel de Wecito, comprobar que Mercado Pago figura «Conectado».
-3. Crear un descargable de prueba con un archivo ficticio, no con el PDF final.
-4. Probar el recorrido permitido por Wecito: pago aprobado, email recibido, descarga y monto neto acreditado. No liberar el producto real antes de esta prueba.
-5. Terminar y revisar Chañar en colores: precisión histórica, fuentes, derechos de imágenes, legibilidad, impresión y versión móvil.
-6. Crear el producto real en Wecito, cargar el archivo final y copiar la URL individual del checkout.
-7. Pegar esa URL en `purchaseUrl` de `assets/js/catalog.js`. Cambiar `status` a `available` solo después de validar todo.
-8. Confirmar que el sitio público muestra el botón correcto y hacer una última prueba desde otro navegador/dispositivo.
+## Estructura editorial que se mantiene
+1. Identidad editorial y presentación.
+2. Catálogo de publicaciones.
+3. Colecciones y categorías.
+4. Ficha individual por publicación.
+5. Muestras editoriales cuando estén terminadas.
+6. Página de criterios editoriales, autoría, fuentes y derechos.
+7. Archivo de publicaciones terminadas.
 
-## Criterios comerciales
-- Mantener el plan Free hasta tener ventas y datos reales.
-- No pagar un plan superior para resolver un problema que todavía no se comprobó.
-- La página principal actual de Wecito informa 10% de comisión en Free, 5% en Pro y 0% en Creadores; otra página pública de precios muestra condiciones distintas. Confirmar la comisión y los límites vigentes dentro de la cuenta antes de calcular el precio neto.
-- El precio de ARS 2.500 es una referencia inicial, no un precio validado por ventas. Revisarlo con el costo de producción, comisiones, impuestos aplicables y valor percibido.
-- No producir muchos títulos todavía. Primero vender y aprender con una sola publicación bien terminada.
+No agregar secciones por decoración ni crear un catálogo lleno de productos inexistentes.
 
-## Enfoque estratégico
-**Ocarina Producciones** produce y firma el contenido. **Editorial RUMA** lo presenta y comercializa como sello editorial. No convertir RUMA en una biblioteca genérica de archivos ajenos ni mezclarla con todos los proyectos de Ocarina: la prioridad es validar un producto original, útil y vendible.
+## Primer producto prioritario
+**Chañar en colores** — cuaderno ilustrado de historia e identidad de San Patricio del Chañar, pensado para distintas edades.
 
-## Qué necesita hacer el titular
-Las únicas acciones que requieren entrar personalmente a Wecito/Mercado Pago son las autorizaciones de cobro y las pruebas que involucren su cuenta y su dinero. Nunca compartir contraseñas ni códigos de acceso por chat.
+Estado actual: **en preparación**. El catálogo solo contiene una ficha descriptiva; el PDF final, sus fuentes y la revisión editorial no están verificados dentro de este repositorio. No afirmar que está terminado hasta tener el archivo y revisar su contenido página por página.
+
+## Definición de producto terminado
+- Propósito y público claros.
+- Contenido completo, sin páginas de relleno.
+- Fuentes identificadas para los datos históricos.
+- Hechos, testimonios e interpretaciones diferenciados.
+- Autoría y derechos de imágenes/ilustraciones claros.
+- Diseño consistente y legible en celular y papel A4.
+- Ortografía, nombres, fechas y numeración revisados.
+- PDF final abierto y probado.
+- Muestra coherente con la edición final.
+- Archivos maestros y versión final ordenados.
+
+## Orden de trabajo
+1. Cerrar la identidad y arquitectura de RUMA.
+2. Definir índice y alcance final de Chañar en colores.
+3. Investigar y documentar fuentes históricas.
+4. Escribir y revisar el contenido.
+5. Diseñar, corregir y exportar el PDF.
+6. Revisar todas las páginas y probar impresión/lectura.
+7. Preparar muestra y ficha editorial.
+8. Congelar la versión final del producto.
+
+## Reglas
+- No abrir nuevos productos hasta terminar el primero.
+- No agregar integraciones ni tareas de venta durante esta etapa.
+- No inventar datos históricos ni presentar recuerdos como hechos comprobados.
+- No publicar como terminado un archivo que no haya sido revisado.
+- No cambiar identidad ni estructura sin una razón concreta.
