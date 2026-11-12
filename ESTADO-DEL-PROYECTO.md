@@ -77,3 +77,21 @@ Se incorporaron al repositorio los siguientes documentos de trabajo:
 5. Hacer relevamiento fotográfico local del chañar y del paisaje.
 6. Completar textos por capítulo con ficha de afirmaciones y fuentes.
 7. Producir ilustraciones originales y maquetar el PDF.
+
+
+## Segunda ronda de investigación — 12 de noviembre de 2026
+
+Se agregó:
+- `INFORME-COTEJO-HISTORICO-CHANAR-EN-COLORES.md`: comparación de fuentes académicas, institucionales, técnicas y botánicas; contradicciones; decisiones de redacción segura.
+- `SEGUNDA-RONDA-INVESTIGACION-CHANAR.md`: cronología provisional, tratamiento del período de fortines, historia productiva con pluralidad de actores y documentos primarios pendientes.
+
+Se corrigió el texto piloto de la página sobre el río y el riego para distinguir las obras de bombeo iniciadas en 1969 de la expansión posterior de los sistemas de riego.
+
+### Nuevas conclusiones de control
+- No publicar todavía la cifra de tierras cedidas al casco urbano: las fuentes difieren entre 35 y más de 120 hectáreas.
+- No fijar fecha del Consorcio de Riego hasta obtener Decreto 574/74 o acta constitutiva.
+- Tratayén se describe como antecedente de las primeras décadas del siglo XX; las fechas 1913 y alrededor de 1920 se mantienen como referencias divergentes.
+- La presencia mapuche y criolla debe tratarse con fuentes específicas y consulta pertinente, no solo desde un informe de planificación.
+- El Decreto 1339/1973 original aún no fue localizado en esta ronda, aunque la fecha oficial de fundación tiene corroboración institucional y académica.
+
+**Estado:** investigación y redacción piloto avanzadas. No hay PDF final, ilustraciones terminadas ni autorización para considerar el producto listo para imprimir.
