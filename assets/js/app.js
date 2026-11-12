@@ -1,9 +1,11 @@
 (()=>{"use strict";
 const all=(window.RUMA_CATALOG||[]).filter(x=>x.status!=="hidden");
+const store=window.RUMA_STORE||{};
 const $=id=>document.getElementById(id);
 let cat="Todas",query="";
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const categories=["Todas",...new Set(all.map(x=>x.category).filter(Boolean))];
+function setupStoreLink(){const link=document.getElementById("storeLink");if(!link)return;if(store.profileUrl){link.href=store.profileUrl;link.hidden=false;link.textContent="Visitar tienda RUMA ↗";}}
 function drawFilters(){
  $("filters").innerHTML=categories.map(c=>'<button type="button" class="filter" data-cat="'+esc(c)+'" aria-pressed="'+(c===cat)+'">'+esc(c)+'</button>').join("");
 }
