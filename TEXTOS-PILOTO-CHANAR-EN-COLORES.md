@@ -45,15 +45,17 @@ Mirar el paisaje es una forma de empezar a conocer la historia: muchas decisione
 
 ## Página 7 — El río Neuquén
 
-El río Neuquén es mucho más que una línea azul en el mapa. Su agua forma parte del paisaje y fue fundamental para el desarrollo de las actividades agrícolas en esta zona.
+El río Neuquén forma parte del paisaje y fue una pieza central en la transformación agrícola de esta zona.
 
-Para que el agua llegara a los cultivos fue necesario construir obras, organizar recorridos y mantener sistemas de riego y drenaje. Eso cambió la manera de trabajar la tierra y ayudó a transformar el valle.
+A fines de los años sesenta comenzaron obras para llevar agua a los cultivos. Al principio se utilizaron bombas para elevar el agua desde el río. Después se desarrollaron sistemas de canales y riego que permitieron ampliar las superficies cultivadas.
+
+No fue un cambio de un solo día: hicieron falta obras, organización, inversión y trabajo.
 
 **Para conversar:** ¿Qué cosas de nuestra vida cotidiana necesitan agua? ¿De dónde llega el agua que usamos en casa? ¿Es lo mismo el agua del río que el agua que sale de una canilla?
 
 **Idea visual:** una gran curva del río y un diagrama sencillo que conecte río, obra de toma, canal principal y chacra. No representar un trazado real sin plano técnico.
 
-**Referencia interna:** F05 y F01. La explicación técnica debe ser revisada con documentación de Recursos Hídricos o del Consorcio de Riego.
+**Referencia interna:** F12, F13 y F14. La secuencia general está respaldada por el artículo académico y el informe CFI/COPADE; el detalle técnico de canales, bocatomas y drenajes debe revisarse con documentación de Recursos Hídricos o del Consorcio de Riego.
 
 ## Página 8 — Mirar de cerca: el chañar
 
