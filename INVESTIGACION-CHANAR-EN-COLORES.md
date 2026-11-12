@@ -120,3 +120,52 @@ La extensión final no se fija hasta saber qué contenido verificable y qué mat
 ## Regla de publicación
 
 Este dossier es una base de trabajo, no una bibliografía exhaustiva ni una certificación histórica. Cada afirmación del cuaderno debe tener una referencia concreta en el archivo maestro de fuentes. Si no se puede verificar, se elimina, se atribuye como testimonio o se explica como hipótesis.
+
+
+---
+
+## Ampliación de investigación — 12/11/2026
+
+### A. Presencia humana anterior a la colonización agrícola
+
+El informe del Consejo Federal de Inversiones / COPADE de octubre de 2006, en su apartado “Marco histórico” (páginas impresas 33–35), señala que la región fue un antiguo camino de tránsito indígena hacia la cordillera y Chile. También refiere presencia de la comunidad Paynemil y otras familias mapuches en el área regional, junto con tradiciones criollas, y menciona actividades rurales de subsistencia.
+
+Esto obliga a corregir cualquier relato que presente el territorio como “vacío” o sin historia antes de las grandes inversiones agrícolas de fines de los años sesenta.
+
+**Regla para el cuaderno:** no convertir esta referencia regional en afirmaciones específicas sobre cada punto del actual ejido municipal. Se necesita investigación adicional, fuentes pertinentes y, cuando sea posible, consulta de voces de las comunidades. No usar ilustraciones estereotipadas ni inventar testimonios.
+
+Fuente añadida:
+- Consejo Federal de Inversiones / COPADE, *Plan de Ordenamiento Territorial y Ambiental en las localidades de Añelo, San Patricio del Chañar y Sauzal Bonito*, informe parcial, octubre de 2006, apartado B “Marco histórico”, pp. impresas 33–35.
+- URL: https://www.argentina.gob.ar/sites/default/files/plan_de_ordenamiento_territorial_y_ambiental_para_las_localidades_des_anelo_san_patricio_del_chanar_y_sauzal_bonito_0.pdf
+
+### B. Tratayén: diferencia de cronologías
+
+Hay al menos dos referencias institucionales que no deben confundirse:
+- Municipalidad: mensura del ingeniero Tressens hacia 1913 en la colonia Tratayen.
+- Informe CFI/COPADE (2006): antecedentes de una colonia Tratayén alrededor de 1920.
+
+Estas fechas podrían corresponder a momentos distintos (mensura, formación o funcionamiento), pero eso no está probado. La publicación debe decir que existen referencias documentales de principios del siglo XX y explicar que la cronología exacta sigue en investigación, hasta revisar los planos originales.
+
+La desaparición por una gran crecida del río Neuquén sigue siendo una hipótesis en las fuentes consultadas.
+
+### C. Fechas de fundación y organización institucional
+
+La Carta Orgánica Municipal publicada en el Boletín Oficial (edición 3001, 29/09/2006) reconoce el 21 de mayo de 1973 como fecha de fundación (artículo 2). Neuquén Informa, en una reseña del 22/05/2014, distingue esa fecha de la puesta en funciones de las autoridades de la Comisión de Fomento, el 8 de abril de 1974.
+
+**Redacción segura preliminar:** “La fecha oficial de fundación que reconoce la Carta Orgánica es el 21 de mayo de 1973. La organización de la Comisión de Fomento y la puesta en funciones de sus autoridades tuvieron otro momento: el 8 de abril de 1974, según la reseña provincial consultada.”
+
+Fuentes:
+- Carta Orgánica: https://infoleg.neuquen.gob.ar/Boletines/bo06092903001a.pdf
+- Neuquén Informa: https://www.neuqueninforma.gob.ar/noticias/2014/05/22/48785-jorge-sapag-asistira-al-41-aniversario-de-san-patricio-del-chanar
+
+### D. Decisión narrativa
+
+El cuaderno no contará una historia lineal que comience con un único “fundador” y convierta todo lo anterior en un prólogo vacío. Va a presentar procesos diferentes:
+1. territorio y circulación humana anteriores al pueblo actual;
+2. referencias a fortines y caminos del siglo XIX, contextualizadas críticamente;
+3. antecedentes de Tratayén en las primeras décadas del siglo XX;
+4. transformación agrícola y obras de riego de fines de los años sesenta;
+5. fundación oficial en 1973 y organización institucional desde 1974;
+6. crecimiento de la vida comunitaria.
+
+La historia de las familias pioneras y de los emprendimientos agrícolas debe formar parte de la narración, pero no desplazar a trabajadores, productores, familias, comunidades y organizaciones que también construyeron la vida local.
