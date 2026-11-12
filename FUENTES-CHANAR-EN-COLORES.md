@@ -103,3 +103,18 @@ Para cada párrafo final del cuaderno se completará:
 - Qué no prueba:
 - Revisión:
 - Estado: aprobado / corregir / retirar.
+
+
+### F10 — Sistema de Información de Biodiversidad (SIB), Administración de Parques Nacionales: Geoffroea decorticans
+URL: https://sib.gob.ar/especies/geoffroea-decorticans  
+Tipo: ficha de biodiversidad institucional.  
+Aporta: nombre científico, nombre común, condición autóctona, descripción de porte, hojas, flores, frutos, distribución y usos.  
+Uso: base para la lámina botánica del chañar.  
+Cuidado: la ficha se apoya en una guía del Parque Nacional Lihué Calel; no prueba por sí sola la presencia de un ejemplar concreto dentro del ejido urbano. Para ilustrar “el chañar de Chañar”, registrar fotografías de ejemplares locales y comprobar identificación.
+
+### F11 — Flora del Cono Sur, Instituto de Botánica Darwinion / base de datos taxonómica
+URL: https://app.floraargentina.edu.ar/new-app/cono-sur/especie.php?id=9564&origen=externo  
+Tipo: base taxonómica botánica especializada.  
+Aporta: nombre aceptado, familia Fabaceae, condición nativa y descripción morfológica de Geoffroea decorticans.  
+Uso: corroboración taxonómica y revisión de vocabulario botánico.  
+Cuidado: no reemplaza una guía de campo local ni acredita por sí sola presencia en un punto específico de San Patricio del Chañar.
