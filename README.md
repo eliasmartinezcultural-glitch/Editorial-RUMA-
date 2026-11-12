@@ -15,6 +15,7 @@ Dar identidad, orden y una vidriera comercial a cuadernos, recursos educativos, 
 - `FICHA-PUBLICACION.md`: plantilla para cada obra.
 - `CONTROL-DE-CALIDAD.md`: lista previa a publicación.
 - `MODELO-COMERCIAL.md`: criterios para vender y entregar.
+- `INTEGRACION-VENTAS.md`: evaluación de proveedores y pasos para conectar cobro y entrega.
 
 ## Activar GitHub Pages
 En GitHub: Settings → Pages → Deploy from a branch. Elegir `main` y `/(root)`. La URL esperada es https://eliasmartinezcultural-glitch.github.io/Editorial-RUMA-/; solo estará activa cuando Pages esté configurado y el despliegue termine correctamente.
