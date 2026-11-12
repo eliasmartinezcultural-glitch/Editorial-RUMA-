@@ -17,7 +17,7 @@ Dar identidad, orden y una vidriera comercial a cuadernos, recursos educativos, 
 - `MODELO-COMERCIAL.md`: criterios para vender y entregar.
 - `INTEGRACION-VENTAS.md`: arquitectura y criterios de venta digital.
 - `CONECTAR-WECITO.md`: guía paso a paso para configurar Wecito y Mercado Pago.
-- `assets/js/store-config.js`: URL pública de la tienda Wecito (se completa después del alta).
+- La tienda externa y los cobros están pausados. No hay integraciones activas.
 
 ## Activar GitHub Pages
 En GitHub: Settings → Pages → Deploy from a branch. Elegir `main` y `/(root)`. La URL esperada es https://eliasmartinezcultural-glitch.github.io/Editorial-RUMA-/; solo estará activa cuando Pages esté configurado y el despliegue termine correctamente.
